@@ -19,6 +19,36 @@
     <loc>/reference/HydroALL-package.html</loc>
   </url>
   <url>
+    <loc>/reference/SPAW.html</loc>
+  </url>
+  <url>
+    <loc>/reference/VIC_soilParam.html</loc>
+  </url>
+  <url>
+    <loc>/reference/XAJ_calib.html</loc>
+  </url>
+  <url>
+    <loc>/reference/XAJ_predict.html</loc>
+  </url>
+  <url>
+    <loc>/reference/grid_date.html</loc>
+  </url>
+  <url>
     <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/plot_calib.html</loc>
+  </url>
+  <url>
+    <loc>/reference/plot_runoff.html</loc>
+  </url>
+  <url>
+    <loc>/reference/routing_muskingum.html</loc>
+  </url>
+  <url>
+    <loc>/reference/soil_class.html</loc>
+  </url>
+  <url>
+    <loc>/reference/usda_sf.html</loc>
   </url>
 </urlset>
