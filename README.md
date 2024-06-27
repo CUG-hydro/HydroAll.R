@@ -4,7 +4,7 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/CUG-hydro/HydroALL.R/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CUG-hydro/HydroALL.R/actions/workflows/R-CMD-check.yaml)
-[![codecov](https://codecov.io/gh/CUG-hydro/HydroALL.R/branch/master/graph/badge.svg)](https://app.codecov.io/gh/CUG-hydro/HydroALL.R)
+[![codecov](https://codecov.io/gh/CUG-hydro/HydroALL.R/branch/main/graph/badge.svg)](https://app.codecov.io/gh/CUG-hydro/HydroALL.R)
 <!-- [![CRAN](http://www.r-pkg.org/badges/version/HydroALL)](https://cran.r-project.org/package=HydroALL) -->
 <!-- [![total](http://cranlogs.r-pkg.org/badges/grand-total/HydroALL)](https://www.rpackages.io/package/HydroALL) -->
 <!-- [![monthly](http://cranlogs.r-pkg.org/badges/HydroALL)](https://www.rpackages.io/package/HydroALL) -->

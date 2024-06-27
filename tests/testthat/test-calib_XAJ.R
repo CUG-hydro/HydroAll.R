@@ -1,7 +1,7 @@
 
 test_that("XAJ_calib works", {
 
-  infile = system.file("extdata/XAJ_input_Hejin_2012-2018.rda", package = "hydroTools")
+  infile = system.file("extdata/XAJ_input_Hejin_2012-2018.rda", package = "HydroALL")
   load(infile)
 
   df = input$data

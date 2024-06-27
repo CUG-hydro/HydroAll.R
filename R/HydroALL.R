@@ -1,4 +1,5 @@
 #' @import magrittr
+#' @importFrom data.table data.table
 #' @keywords internal
 "_PACKAGE"
 

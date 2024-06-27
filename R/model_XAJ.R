@@ -1,3 +1,5 @@
+# 设计一个R6 class 存放这些模型
+
 ### XAJ default parameter ------------------------------------------------------
 param.names <- c("KC", "IM", "WUM", "WLM", "WDM", "C", "B", "SM", "EX", "KI", "KG", "CI", "CG", "N", "NK")
 XAJ.param.range <- data.frame(
@@ -12,7 +14,6 @@ lb <- d_par$lower
 ub <- d_par$upper
 par0 <- d_par$par
 # ------------------------------------------------------------------------------
-
 
 XAJ_goal <- function(par, Qobs, prcp, ET0, area, date = NULL, dt = 24, index = "KGE") {
   r = VIC5::XAJ(prcp, ET0, par, area = area, dt = dt)

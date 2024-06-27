@@ -8,6 +8,7 @@ Description: Hydrological model alliances in R.
 License: MIT + file LICENSE
 Imports: 
     VIC5 (>= 0.2.4),
+    airGR,
     magrittr, 
     lubridate,
     dplyr, purrr, 
@@ -25,3 +26,6 @@ Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
+Depends: 
+    R (>= 4.0)
+LazyData: true
