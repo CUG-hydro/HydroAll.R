@@ -1,4 +1,7 @@
 # .prj84 <- "epsg:4326"
+fprintf <- function(fmt, ...) {
+  cat(sprintf(fmt, ...))
+}
 
 # remove NA_real_ and Inf values in Y_sim, Y_obs and w
 valid <- function(x) !is.na(x) & is.finite(x)
