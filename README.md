@@ -1,5 +1,7 @@
 # HydroALL
 
+> Hydrological model alliances in R
+
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/CUG-hydro/HydroALL.R/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CUG-hydro/HydroALL.R/actions/workflows/R-CMD-check.yaml)
 [![codecov](https://codecov.io/gh/CUG-hydro/HydroALL.R/branch/master/graph/badge.svg)](https://app.codecov.io/gh/CUG-hydro/HydroALL.R)
@@ -8,7 +10,10 @@
 <!-- [![monthly](http://cranlogs.r-pkg.org/badges/HydroALL)](https://www.rpackages.io/package/HydroALL) -->
 <!-- badges: end -->
 
-The goal of `HydroALL` is to ...
+## Models
+
+- `XAJ`: Xinanjiang model
+- `GR4J`: 
 
 ## Installation
 

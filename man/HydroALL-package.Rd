@@ -4,9 +4,9 @@
 \name{HydroALL-package}
 \alias{HydroALL}
 \alias{HydroALL-package}
-\title{HydroALL: What the Package Does (One Line, Title Case)}
+\title{HydroALL: Hydrological Model Alliances in R}
 \description{
-What the package does (one paragraph).
+Hydrological model alliances in R.
 }
 \author{
 \strong{Maintainer}: Dongdong Kong \email{kongdd.sysu@gmail.com} (\href{https://orcid.org/0000-0003-1836-8172}{ORCID})
