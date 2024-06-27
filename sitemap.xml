@@ -16,7 +16,13 @@
     <loc>/index.html</loc>
   </url>
   <url>
+    <loc>/reference/GOF.html</loc>
+  </url>
+  <url>
     <loc>/reference/HydroALL-package.html</loc>
+  </url>
+  <url>
+    <loc>/reference/R2_sign.html</loc>
   </url>
   <url>
     <loc>/reference/SPAW.html</loc>
@@ -31,10 +37,16 @@
     <loc>/reference/XAJ_predict.html</loc>
   </url>
   <url>
+    <loc>/reference/cv_coef.html</loc>
+  </url>
+  <url>
     <loc>/reference/grid_date.html</loc>
   </url>
   <url>
     <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/kurtosis.html</loc>
   </url>
   <url>
     <loc>/reference/plot_calib.html</loc>
